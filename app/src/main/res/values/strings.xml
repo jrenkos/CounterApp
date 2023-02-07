@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">Counter App</string>
     <string name="btn">Tap!</string>
-    <string name="tv"></string>
 </resources>
